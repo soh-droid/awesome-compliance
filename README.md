@@ -99,6 +99,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Proof](https://proof.io/) - ESG data management.
 - [Sametrica](https://sametrica.com/) - ESG data collection.
 - [Workiva](https://www.persefoni.com/partners/workiva) - Financial and ESG reporting platform.
+- [EUDR-Ready](https://eudrdesk.eu/) - Done-for-you EU Deforestation Regulation (EUDR) compliance: commodity/HS-code scope check, TRACES NT registration, and first Due Diligence Statement filing.
 
 ### GRC
 
