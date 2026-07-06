@@ -88,6 +88,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 - [Thoropass](https://www.thoropass.com/) - Compliance automation and audit management.
 - [Tugboat Logic](https://tugboatlogic.com/) - Security assurance platform for SOC 2, ISO 27001.
 - [Vanta](https://www.vanta.com/) - Automated security monitoring and SOC 2, ISO 27001, HIPAA compliance.
+- [FacturaDesk](https://facturadesk.eu/) - Done-for-you Peppol e-invoicing registration for Belgian businesses, plus a free public Peppol registration checker.
 
 ### ESG & sustainability platforms
 
